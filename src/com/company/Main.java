@@ -31,6 +31,7 @@ public class Main {
         carmap.put("4455jrn", kia);
         System.out.println("hashmap" +carmap.get("4455jrn"));
         System.out.println("muesto las keys"+carmap.keySet());
+
         System.out.println("muesto los values"+carmap.values());
     }
 }
