@@ -18,7 +18,7 @@ public class Main {
         carlist.add(ford);
         carlist.add(kia);
 
-        System.out.println("muestro coche :"+carlist.get(0));
+        System.out.println("muestro coche :"+carlist.get(0).getMarca()+", "+carlist.get(0).getModelo());
         System.out.println("muestro coche :"+carlist.get(1));
         System.out.println("muestro coche :"+carlist.get(2));
     }
