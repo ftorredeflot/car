@@ -1,8 +1,6 @@
 package com.company;
 
-/**
- * Created by ferran on 16/09/16.
- */
+
 public class coche {
     private String marca;
     private String modelo;
